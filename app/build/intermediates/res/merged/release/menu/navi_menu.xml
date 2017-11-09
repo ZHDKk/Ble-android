@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/g1_i1"
+            android:icon="@drawable/start"
+            android:title="control" />
+        <!--<item-->
+            <!--android:id="@+id/g1_i2"-->
+            <!--android:icon="@drawable/charge"-->
+            <!--android:title="charge" />-->
+        <item
+            android:id="@+id/g1_i3"
+            android:icon="@drawable/timer"
+            android:title="timer" />
+        <item
+            android:id="@+id/g1_i4"
+            android:icon="@drawable/history"
+            android:title="history" />
+        <item
+            android:id="@+id/g1_i5"
+            android:icon="@drawable/language"
+            android:title="language" />
+        <!--<item-->
+            <!--android:id="@+id/g1_i6"-->
+            <!--android:icon="@drawable/install"-->
+            <!--android:title="install" />-->
+    </group>
+    <item android:title="Other">
+        <menu>
+            <item
+                android:id="@+id/g2_i1"
+                android:icon="@drawable/date"
+                android:title="date" />
+            <item
+                android:id="@+id/g2_i2"
+                android:icon="@drawable/settings"
+                android:title="setting" />
+            <item
+                android:id="@+id/g3_i3"
+                android:icon="@drawable/about"
+                android:title="about" />
+        </menu>
+    </item>
+
+</menu>

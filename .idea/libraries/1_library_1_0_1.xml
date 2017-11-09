@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="1_library-1.0.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/a760d1a2c52d4e6634b3ae5bf3af719b86aa4b2b/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/a760d1a2c52d4e6634b3ae5bf3af719b86aa4b2b/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.shinelw/library/1.0.1/b70109faed802087c7becf54d77721aaeaf88050/library-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

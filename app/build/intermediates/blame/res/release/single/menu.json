@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/menu/navi_menu.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/menu/navi_menu.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/menu/main.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/menu/gatt_services.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/menu/gatt_services.xml"
+    }
+]

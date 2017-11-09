@@ -1,0 +1,312 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:2:1-122:12
+	package
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.jakewharton:butterknife:8.6.0] /Users/zhdk/.android/build-cache/8aec542b723495d12061ef6d55d3d14cfa2c7478/output/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:design:23.2.1] /Users/zhdk/.android/build-cache/d10873ac37e1af568e57391c7bd1de18f5a7d661/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.2.1] /Users/zhdk/.android/build-cache/75c58aa45667b9368e76ffcc37c293963c6151a3/output/AndroidManifest.xml:20:5-43
+MERGED from [com.getbase:floatingactionbutton:1.10.1] /Users/zhdk/.android/build-cache/88eb9338c67cd262dec16173781c2487a2bb1210/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:recyclerview-v7:23.2.1] /Users/zhdk/.android/build-cache/e7003ef8d7ea14130e482187293bba12f00c44d6/output/AndroidManifest.xml:20:5-43
+MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] /Users/zhdk/.android/build-cache/006bb68d46f7174ca5b6397fda61a7fb2dd7fd07/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.shinelw:library:1.0.1] /Users/zhdk/.android/build-cache/a760d1a2c52d4e6634b3ae5bf3af719b86aa4b2b/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.xenione.libs:tab-digit:1.0.2] /Users/zhdk/.android/build-cache/bc47295730e034befb9b26eddf6fc8d4b0c4f11a/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.shimmer:shimmer:0.1.0] /Users/zhdk/.android/build-cache/5625a13a6b873fd4c966253dde7a2f00db953453/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.liuguangli:VerificationCodeInput:1.3] /Users/zhdk/.android/build-cache/73577712cfd905eb2e3cab53c57115b9c111a437/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.d-max:spots-dialog:0.7] /Users/zhdk/.android/build-cache/ba87923ff38f4627f1038a24ca3fb4b2e24c7c88/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.borax12.materialdaterangepicker:library:1.9] /Users/zhdk/.android/build-cache/91db440c0b10b087a9a831ad57e0b2d43a42b287/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.wajahatkarim3.EasyFlipView:EasyFlipView:1.0.0] /Users/zhdk/.android/build-cache/bae65c3c145bfa5d9bff98e9bd85b7783150f64e/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.mrengineer13:snackbar:1.2.0] /Users/zhdk/.android/build-cache/a6c8b1ef3d58f22731e88a30c9cc41238cb3bf6f/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.kongqw:AndroidRocker:1.0.1] /Users/zhdk/.android/build-cache/34571f53ed4eb77c2cd37e4be40385994996edb2/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.0.1] /Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/zhdk/.android/build-cache/571efa8ab6a5998678b673f642b5a101398359b8/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/zhdk/.android/build-cache/f22e4638c910509322c821c1d2a283a396229c95/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/zhdk/.android/build-cache/9b9123a904f9b8663a261045f2da79e26d67870a/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/zhdk/.android/build-cache/bf63cd95db7ce1e19bffdabca797d6ebe12d6430/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/zhdk/.android/build-cache/c99a1ec36201851e205c65aae37fb1f051f5c84d/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] /Users/zhdk/.android/build-cache/096d0211db4e1f5712e55170afff183986954def/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] /Users/zhdk/.android/build-cache/686b05e839ab97f53cfde689cefe34fd73eb1509/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/zhdk/.android/build-cache/30baaf7f8fe31eaf6c5446f4fcd3c64974febc8d/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.github.lecho:hellocharts-android:v1.5.8] /Users/zhdk/.android/build-cache/49b7478a795af8f1f7778d93a4e99bea1211f583/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/zhdk/.android/build-cache/9e30dea435ae9246dfd7574691fbc04c60926212/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.0.1] /Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:11:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:12:22-71
+uses-feature#android.hardware.bluetooth_le
+ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:14:5-16:35
+	android:required
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:16:9-32
+	android:name
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:15:9-53
+uses-permission#android.permission.INTERNET
+ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:18:5-67
+	android:name
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:18:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:19:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:20:5-75
+	android:name
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:20:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:21:5-80
+	android:name
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:21:22-77
+application
+ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:23:5-120:19
+MERGED from [com.android.support:design:23.2.1] /Users/zhdk/.android/build-cache/d10873ac37e1af568e57391c7bd1de18f5a7d661/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.2.1] /Users/zhdk/.android/build-cache/75c58aa45667b9368e76ffcc37c293963c6151a3/output/AndroidManifest.xml:22:5-20
+MERGED from [com.getbase:floatingactionbutton:1.10.1] /Users/zhdk/.android/build-cache/88eb9338c67cd262dec16173781c2487a2bb1210/output/AndroidManifest.xml:12:5-20
+MERGED from [com.skyfishjy.ripplebackground:library:1.0.1] /Users/zhdk/.android/build-cache/006bb68d46f7174ca5b6397fda61a7fb2dd7fd07/output/AndroidManifest.xml:11:5-20
+MERGED from [com.github.shinelw:library:1.0.1] /Users/zhdk/.android/build-cache/a760d1a2c52d4e6634b3ae5bf3af719b86aa4b2b/output/AndroidManifest.xml:11:5-15:19
+MERGED from [com.xenione.libs:tab-digit:1.0.2] /Users/zhdk/.android/build-cache/bc47295730e034befb9b26eddf6fc8d4b0c4f11a/output/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.liuguangli:VerificationCodeInput:1.3] /Users/zhdk/.android/build-cache/73577712cfd905eb2e3cab53c57115b9c111a437/output/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.d-max:spots-dialog:0.7] /Users/zhdk/.android/build-cache/ba87923ff38f4627f1038a24ca3fb4b2e24c7c88/output/AndroidManifest.xml:12:5-20
+MERGED from [com.borax12.materialdaterangepicker:library:1.9] /Users/zhdk/.android/build-cache/91db440c0b10b087a9a831ad57e0b2d43a42b287/output/AndroidManifest.xml:28:5-20
+MERGED from [com.wajahatkarim3.EasyFlipView:EasyFlipView:1.0.0] /Users/zhdk/.android/build-cache/bae65c3c145bfa5d9bff98e9bd85b7783150f64e/output/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.mrengineer13:snackbar:1.2.0] /Users/zhdk/.android/build-cache/a6c8b1ef3d58f22731e88a30c9cc41238cb3bf6f/output/AndroidManifest.xml:12:5-20
+MERGED from [com.github.kongqw:AndroidRocker:1.0.1] /Users/zhdk/.android/build-cache/34571f53ed4eb77c2cd37e4be40385994996edb2/output/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support:appcompat-v7:25.0.1] /Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/zhdk/.android/build-cache/571efa8ab6a5998678b673f642b5a101398359b8/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/zhdk/.android/build-cache/f22e4638c910509322c821c1d2a283a396229c95/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/zhdk/.android/build-cache/9b9123a904f9b8663a261045f2da79e26d67870a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/zhdk/.android/build-cache/bf63cd95db7ce1e19bffdabca797d6ebe12d6430/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/zhdk/.android/build-cache/c99a1ec36201851e205c65aae37fb1f051f5c84d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] /Users/zhdk/.android/build-cache/096d0211db4e1f5712e55170afff183986954def/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] /Users/zhdk/.android/build-cache/686b05e839ab97f53cfde689cefe34fd73eb1509/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/zhdk/.android/build-cache/30baaf7f8fe31eaf6c5446f4fcd3c64974febc8d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/zhdk/.android/build-cache/9e30dea435ae9246dfd7574691fbc04c60926212/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:26:9-41
+	android:supportsRtl
+		ADDED from [com.github.shinelw:library:1.0.1] /Users/zhdk/.android/build-cache/a760d1a2c52d4e6634b3ae5bf3af719b86aa4b2b/output/AndroidManifest.xml:14:9-35
+	android:allowBackup
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:24:9-35
+	android:icon
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:25:9-38
+	android:theme
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:27:9-56
+activity#com.example.bluetooth.le.activity.DeviceScanActivity
+ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:28:9-31:81
+	android:label
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:30:13-45
+	android:theme
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:31:13-69
+	android:name
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:29:13-56
+activity#com.example.bluetooth.le.activity.DeviceControlActivity
+ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:32:9-35:72
+	android:screenOrientation
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:34:13-49
+	android:theme
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:35:13-69
+	android:name
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:33:13-59
+activity#com.example.bluetooth.le.activity.WelcomeActivity
+ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:36:9-45:20
+	android:screenOrientation
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:38:13-49
+	android:theme
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:39:13-69
+	android:name
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:37:13-53
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:40:13-44:29
+action#android.intent.action.MAIN
+ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:43:17-77
+	android:name
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:43:27-74
+activity#com.example.bluetooth.le.activity.HomeActivity
+ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:46:9-49:81
+	android:screenOrientation
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:48:13-49
+	android:theme
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:49:13-69
+	android:name
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:47:13-50
+activity#com.example.bluetooth.le.activity.PinCodeActivity
+ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:50:9-54:71
+	android:screenOrientation
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:52:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:54:13-68
+	android:theme
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:53:13-69
+	android:name
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:51:13-53
+activity#com.example.bluetooth.le.activity.ScreenActivity
+ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:55:9-58:72
+	android:screenOrientation
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:57:13-49
+	android:theme
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:58:13-69
+	android:name
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:56:13-52
+service#com.example.bluetooth.le.activity.BluetoothLeService
+ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:60:9-62:38
+	android:enabled
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:62:13-35
+	android:name
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:61:13-56
+activity#com.example.bluetooth.le.activity.SettingActivity
+ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:64:9-67:72
+	android:screenOrientation
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:66:13-49
+	android:theme
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:67:13-69
+	android:name
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:65:13-53
+activity#com.example.bluetooth.le.activity.BoundaryActivity
+ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:68:9-71:72
+	android:screenOrientation
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:70:13-49
+	android:theme
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:71:13-69
+	android:name
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:69:13-54
+activity#com.example.bluetooth.le.activity.ChangePwdActivity
+ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:72:9-75:72
+	android:screenOrientation
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:74:13-49
+	android:theme
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:75:13-69
+	android:name
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:73:13-55
+activity#com.example.bluetooth.le.activity.FaultRocordActivity
+ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:76:9-79:72
+	android:screenOrientation
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:78:13-49
+	android:theme
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:79:13-69
+	android:name
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:77:13-57
+activity#com.example.bluetooth.le.activity.CuttingRocordActivity
+ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:80:9-83:72
+	android:screenOrientation
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:82:13-49
+	android:theme
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:83:13-69
+	android:name
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:81:13-59
+activity#com.example.bluetooth.le.activity.ChargingRocordActivity
+ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:84:9-87:72
+	android:screenOrientation
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:86:13-49
+	android:theme
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:87:13-69
+	android:name
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:85:13-60
+activity#com.example.bluetooth.le.activity.HealthRocordActivity
+ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:88:9-91:72
+	android:screenOrientation
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:90:13-49
+	android:theme
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:91:13-69
+	android:name
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:89:13-58
+activity#com.example.bluetooth.le.activity.DateActivity
+ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:92:9-95:81
+	android:screenOrientation
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:94:13-49
+	android:theme
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:95:13-69
+	android:name
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:93:13-50
+activity#com.example.bluetooth.le.activity.MultiareaActivity
+ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:96:9-99:81
+	android:screenOrientation
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:98:13-49
+	android:theme
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:99:13-69
+	android:name
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:97:13-55
+activity#com.example.bluetooth.le.activity.OperatingActivity
+ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:100:9-103:81
+	android:screenOrientation
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:102:13-50
+	android:theme
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:103:13-69
+	android:name
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:101:13-55
+activity#com.example.bluetooth.le.base.BaseWebActivity
+ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:104:9-107:72
+	android:configChanges
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:106:13-59
+	android:theme
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:107:13-69
+	android:name
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:105:13-49
+activity#com.example.bluetooth.le.activity.AboutActivity
+ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:108:9-111:72
+	android:screenOrientation
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:110:13-49
+	android:theme
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:111:13-69
+	android:name
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:109:13-51
+activity#com.example.bluetooth.le.activity.AboutWebActivity
+ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:112:9-115:72
+	android:configChanges
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:114:13-59
+	android:theme
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:115:13-69
+	android:name
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:113:13-54
+activity#com.example.bluetooth.le.activity.AllReViewActivity
+ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:116:9-119:72
+	android:screenOrientation
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:118:13-49
+	android:theme
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:119:13-69
+	android:name
+		ADDED from /Users/zhdk/Desktop/Bluetooth4_3/app/src/main/AndroidManifest.xml:117:13-55
+uses-permission#android.permission.VIBRATE
+ADDED from [com.borax12.materialdaterangepicker:library:1.9] /Users/zhdk/.android/build-cache/91db440c0b10b087a9a831ad57e0b2d43a42b287/output/AndroidManifest.xml:26:5-66
+	android:name
+		ADDED from [com.borax12.materialdaterangepicker:library:1.9] /Users/zhdk/.android/build-cache/91db440c0b10b087a9a831ad57e0b2d43a42b287/output/AndroidManifest.xml:26:22-63
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.0.0-alpha1] /Users/zhdk/.android/build-cache/571efa8ab6a5998678b673f642b5a101398359b8/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/zhdk/.android/build-cache/f22e4638c910509322c821c1d2a283a396229c95/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/zhdk/.android/build-cache/9b9123a904f9b8663a261045f2da79e26d67870a/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/zhdk/.android/build-cache/bf63cd95db7ce1e19bffdabca797d6ebe12d6430/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/zhdk/.android/build-cache/c99a1ec36201851e205c65aae37fb1f051f5c84d/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/zhdk/.android/build-cache/30baaf7f8fe31eaf6c5446f4fcd3c64974febc8d/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:support-v4:26.0.0-alpha1] /Users/zhdk/.android/build-cache/571efa8ab6a5998678b673f642b5a101398359b8/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:support-v4:26.0.0-alpha1] /Users/zhdk/.android/build-cache/571efa8ab6a5998678b673f642b5a101398359b8/output/AndroidManifest.xml:26:9-47

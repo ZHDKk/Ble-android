@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/zhdk/.android/build-cache/bae65c3c145bfa5d9bff98e9bd85b7783150f64e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f64aed35ba7d1885067d2887813579e7a6c182a5">
+        <dex dex="/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0d8a33aa1cd5b846a52c63b2b2defe203f62003e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhdk/.android/build-cache/9e30dea435ae9246dfd7574691fbc04c60926212/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9415c2c1324db1bdd3f07a2f687eeedba484490a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhdk/.android/build-cache/75c58aa45667b9368e76ffcc37c293963c6151a3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
+        <dex dex="/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f9e5032828d6ad4658657fb65c363115c5573d92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhdk/.android/build-cache/686b05e839ab97f53cfde689cefe34fd73eb1509/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e1fa7b0816ae3a0f06913ebd08100158ece18354/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhdk/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.6.0/48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8/butterknife-annotations-8.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8">
+        <dex dex="/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.6.0_6124c85d96ea41277311a60d36d682980f61360f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhdk/.android/build-cache/5625a13a6b873fd4c966253dde7a2f00db953453/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="37e257a25703e692be3f9aa9c4bf7de620e9271a">
+        <dex dex="/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ebd4bab9bd676b783ddd509099508e46e6e79497/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dbc10360c41089c30c5144e65c38c79addd4966e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhdk/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao-api/3.2.2/e9bbf7a184b0b4914a10d8179c993cc9aa9b1b33/greendao-api-3.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e9bbf7a184b0b4914a10d8179c993cc9aa9b1b33">
+        <dex dex="/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/greendao-api-3.2.2_613a7a58114f1bb32243c09de3f805ec44c9cda2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhdk/.android/build-cache/571efa8ab6a5998678b673f642b5a101398359b8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3225944dab2f4359bac5bcd652daecbb03a0c778/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhdk/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_281f2a13950d575ff4b635fc55c51f01029e0354/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhdk/.android/build-cache/c99a1ec36201851e205c65aae37fb1f051f5c84d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_408259838b12248abccccd4bef7230f04442f7f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhdk/.android/build-cache/91db440c0b10b087a9a831ad57e0b2d43a42b287/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="824405f63810bfc46099d9951f0910c15a5b6f4f">
+        <dex dex="/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_79f9bc8c91bac0bb1b2d69ae47ddb46a046b2823/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhdk/.android/build-cache/34571f53ed4eb77c2cd37e4be40385994996edb2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="94af6019a23d7d883cab1e4e330dd1d42e0d1ffa">
+        <dex dex="/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_70a26c7b7f6e004337542212ff893d106b876a75/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhdk/.android/build-cache/30baaf7f8fe31eaf6c5446f4fcd3c64974febc8d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8e24f1e744ea396fdabec6f7afb12159761cec4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhdk/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_c7cd495489a91eef9c64591b0af0af0425938e81/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhdk/.android/build-cache/bf63cd95db7ce1e19bffdabca797d6ebe12d6430/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e5cadac98903fa14ba201b50e30bc871d1f8a4ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_27aeed89d17dd66421470431c58feb8a54a7ef35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhdk/.android/build-cache/a6c8b1ef3d58f22731e88a30c9cc41238cb3bf6f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cc35903814b2bf137fa6f1df823ed51cdce74977">
+        <dex dex="/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9e077d86efff4be8938af69f4d50702a393fff8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhdk/.android/build-cache/8aec542b723495d12061ef6d55d3d14cfa2c7478/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="be587097e648eabfb7f9eca23ab03369894e2d5d">
+        <dex dex="/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_238b654ca1945c9ed0f6165f5f54f5376bdfa85b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhdk/.android/build-cache/f22e4638c910509322c821c1d2a283a396229c95/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_944182bdf59a3926a02ff660885ad7e197df2ae5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhdk/.android/build-cache/ba87923ff38f4627f1038a24ca3fb4b2e24c7c88/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf94678214d9ab43a8deb5df90d0b3e6d619ff1e">
+        <dex dex="/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_275857e0ffbb06c104d93ac166207059a6cf8659/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhdk/.android/build-cache/73577712cfd905eb2e3cab53c57115b9c111a437/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f1f2d76d6acf157aa597d1cf01a34c220a897103">
+        <dex dex="/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2fdc2f24d714cf897abb54dc81a21775e45365f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhdk/.android/build-cache/bc47295730e034befb9b26eddf6fc8d4b0c4f11a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d703d14b8ebdb1c254b23a544666e7ad9ce7cb70">
+        <dex dex="/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_89e6c316008d1d1f5e7ff4874961e5aa981d4c18/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhdk/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao/3.2.2/f8c7ebdc29310be23d076e5512bafe6bad3ce2f0/greendao-3.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f8c7ebdc29310be23d076e5512bafe6bad3ce2f0">
+        <dex dex="/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/greendao-3.2.2_af381636eb93624da6b76290514506aa856f1d2e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhdk/.android/build-cache/e7003ef8d7ea14130e482187293bba12f00c44d6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_701015a944fc5aac6c48b03cd4b81f42c5312012/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhdk/.android/build-cache/88eb9338c67cd262dec16173781c2487a2bb1210/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f40cf334cdc8b098b74312e21c7741c6eefbeb0e">
+        <dex dex="/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_14824c74ad7e0f4bf6a5ce1b439fa769dd82c857/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhdk/.android/build-cache/49b7478a795af8f1f7778d93a4e99bea1211f583/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="838172f1d23787cc52bb558ef989605bc2aecf62">
+        <dex dex="/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_52bd61a94bec775d4e18b97cebe99db9a96501da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhdk/.android/build-cache/096d0211db4e1f5712e55170afff183986954def/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6834736ae7e7e194201c54d7a6a01c4819b846e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="758f97598557bdabadfcccf24093cb581d274409">
+        <dex dex="/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0049bb1b7cebf3a4768cfcf62e8c1778e43e4ddd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhdk/.android/build-cache/d10873ac37e1af568e57391c7bd1de18f5a7d661/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a77b478eb282295c31ee4c5b846a91f78d30d9ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhdk/.android/build-cache/006bb68d46f7174ca5b6397fda61a7fb2dd7fd07/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5a7cf2a41aedccc427107ebb37762a5e2f5be590">
+        <dex dex="/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2278c9ccc1a1a50304ebaefd0cb336e8c957c275/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhdk/.android/build-cache/9b9123a904f9b8663a261045f2da79e26d67870a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7d61f3624970eb46be57fde2e15490f4fc7867cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhdk/.android/build-cache/a760d1a2c52d4e6634b3ae5bf3af719b86aa4b2b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1ce91cc79b589ecc3d1cec6c8e6f45caf496471d">
+        <dex dex="/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b2b587738a815f3a22a6d5abbcd951370caa68d7/classes.dex" />
+    </item>
+
+</items>

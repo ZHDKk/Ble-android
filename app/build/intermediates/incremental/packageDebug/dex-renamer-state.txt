@@ -1,0 +1,7 @@
+#Fri Nov 03 10:02:01 CST 2017
+base.0=/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dbc10360c41089c30c5144e65c38c79addd4966e
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0049bb1b7cebf3a4768cfcf62e8c1778e43e4ddd/classes.dex
+base.1=/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0049bb1b7cebf3a4768cfcf62e8c1778e43e4ddd
+file.0=/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_dbc10360c41089c30c5144e65c38c79addd4966e/classes.dex

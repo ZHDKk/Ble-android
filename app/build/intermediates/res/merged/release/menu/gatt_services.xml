@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" >
+    <item android:id="@+id/menu_signal"
+        android:checkable="false"
+        android:orderInCategory="1"
+        app:showAsAction="always"
+         />
+    <!--<item android:id="@+id/menu_refresh"-->
+          <!--android:checkable="false"-->
+          <!--android:orderInCategory="4"-->
+        <!--app:showAsAction="always"/>-->
+    <item android:id="@+id/menu_connect"
+          android:title="@string/menu_connect"
+          android:orderInCategory="2"
+        app:showAsAction="always"/>
+    <item android:id="@+id/menu_disconnect"
+          android:title="@string/menu_disconnect"
+          android:orderInCategory="3"
+        app:showAsAction="always"/>
+</menu>

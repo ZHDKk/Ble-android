@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/zhdk/.android/build-cache/d10873ac37e1af568e57391c7bd1de18f5a7d661/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/zhdk/.android/build-cache/d10873ac37e1af568e57391c7bd1de18f5a7d661/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/zhdk/.android/build-cache/d10873ac37e1af568e57391c7bd1de18f5a7d661/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/debug/anim/cycle.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/anim/cycle.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/zhdk/.android/build-cache/d10873ac37e1af568e57391c7bd1de18f5a7d661/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/debug/anim/pop_exit_anim.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/anim/pop_exit_anim.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/debug/anim/inuptodown.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/anim/inuptodown.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/zhdk/.android/build-cache/d10873ac37e1af568e57391c7bd1de18f5a7d661/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/debug/anim/pop_enter_anim.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/anim/pop_enter_anim.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/debug/anim/myanim.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/anim/myanim.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/debug/anim/slide_out_top.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/anim/slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/debug/anim/outdowntoup.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/anim/outdowntoup.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/debug/anim/slide_in_top.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/anim/slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/zhdk/.android/build-cache/d10873ac37e1af568e57391c7bd1de18f5a7d661/output/res/anim/design_snackbar_out.xml"
+    }
+]

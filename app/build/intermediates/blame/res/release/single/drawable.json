@@ -1,0 +1,246 @@
+[
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/abc_vector_test.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/design_fab_background.xml",
+        "source": "/Users/zhdk/.android/build-cache/d10873ac37e1af568e57391c7bd1de18f5a7d661/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/circle_bg.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/drawable/circle_bg.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/btn_selector.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/drawable/btn_selector.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/shape_icv_et_bg_focus.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/drawable/shape_icv_et_bg_focus.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/tv_selector.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/drawable/tv_selector.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/sb__tablet_bkgnd.xml",
+        "source": "/Users/zhdk/.android/build-cache/a6c8b1ef3d58f22731e88a30c9cc41238cb3bf6f/output/res/drawable/sb__tablet_bkgnd.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/mdtp_material_button_background.xml",
+        "source": "/Users/zhdk/.android/build-cache/91db440c0b10b087a9a831ad57e0b2d43a42b287/output/res/drawable/mdtp_material_button_background.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/progress_bar_states.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/drawable/progress_bar_states.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/color_shape.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/drawable/color_shape.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/mdtp_done_background_color_dark.xml",
+        "source": "/Users/zhdk/.android/build-cache/91db440c0b10b087a9a831ad57e0b2d43a42b287/output/res/drawable/mdtp_done_background_color_dark.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/shape_icv_et_bg_normal.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/drawable/shape_icv_et_bg_normal.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/mdtp_done_background_color.xml",
+        "source": "/Users/zhdk/.android/build-cache/91db440c0b10b087a9a831ad57e0b2d43a42b287/output/res/drawable/mdtp_done_background_color.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/mdtp_material_button_selected.xml",
+        "source": "/Users/zhdk/.android/build-cache/91db440c0b10b087a9a831ad57e0b2d43a42b287/output/res/drawable/mdtp_material_button_selected.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/default_rocker_bg.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/drawable/default_rocker_bg.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/checkbox_style.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/drawable/checkbox_style.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/verification_edit_bg_normal.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/drawable/verification_edit_bg_normal.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/shape_divider_identifying.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/drawable/shape_divider_identifying.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/dmax_spots_spot.xml",
+        "source": "/Users/zhdk/.android/build-cache/ba87923ff38f4627f1038a24ca3fb4b2e24c7c88/output/res/drawable/dmax_spots_spot.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/design_snackbar_background.xml",
+        "source": "/Users/zhdk/.android/build-cache/d10873ac37e1af568e57391c7bd1de18f5a7d661/output/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/verifcation_edit_bg_focus.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/drawable/verifcation_edit_bg_focus.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/abc_btn_check_material.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/abc_edit_text_material.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/dt_shape_rect_border_frame.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/drawable/dt_shape_rect_border_frame.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/default_area_bg.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/drawable/default_area_bg.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/verification_edit_bg_focus.xml",
+        "source": "/Users/zhdk/.android/build-cache/73577712cfd905eb2e3cab53c57115b9c111a437/output/res/drawable/verification_edit_bg_focus.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable-xhdpi/icon_info.png",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/drawable-xhdpi/icon_info.png"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable-xhdpi/test.png",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/drawable-xhdpi/test.png"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable-xhdpi/ic_launcher.png",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/drawable-xhdpi/delete_bg.png",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/drawable-xhdpi/delete_bg.png"
+    }
+]

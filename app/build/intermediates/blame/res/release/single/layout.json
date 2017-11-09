@@ -1,0 +1,482 @@
+[
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/screen_layout.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/screen_layout.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/baseweb_layout.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/baseweb_layout.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/health_item.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/health_item.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/cutting_item.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/cutting_item.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/activity_all_re_view.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/activity_all_re_view.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/design_layout_tab_icon.xml",
+        "source": "/Users/zhdk/.android/build-cache/d10873ac37e1af568e57391c7bd1de18f5a7d661/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/mdtp_date_picker_header_view.xml",
+        "source": "/Users/zhdk/.android/build-cache/91db440c0b10b087a9a831ad57e0b2d43a42b287/output/res/layout/mdtp_date_picker_header_view.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/about_layout.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/about_layout.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/multi_dialog.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/multi_dialog.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/abc_screen_simple.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/welcome_layout.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/welcome_layout.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/range_date_picker_dialog.xml",
+        "source": "/Users/zhdk/.android/build-cache/91db440c0b10b087a9a831ad57e0b2d43a42b287/output/res/layout/range_date_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/clock.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/clock.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/language_item.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/language_item.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/dialog_layout.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/dialog_layout.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/notification_media_action.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/design_navigation_menu_item.xml",
+        "source": "/Users/zhdk/.android/build-cache/d10873ac37e1af568e57391c7bd1de18f5a7d661/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/design_navigation_menu.xml",
+        "source": "/Users/zhdk/.android/build-cache/d10873ac37e1af568e57391c7bd1de18f5a7d661/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/editwidth_dialog.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/editwidth_dialog.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/actionbar_indeterminate_progress.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/actionbar_indeterminate_progress.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/fragment_history.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/fragment_history.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/fragment_timer.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/fragment_timer.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/setting_layout.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/setting_layout.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/mdtp_time_header_label_end.xml",
+        "source": "/Users/zhdk/.android/build-cache/91db440c0b10b087a9a831ad57e0b2d43a42b287/output/res/layout/mdtp_time_header_label_end.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/fragment_date.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/fragment_date.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/notification_template_big_media.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/abc_screen_content_include.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/notification_template_big_media_custom.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/faultrocord_layout.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/faultrocord_layout.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/main_layout.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/main_layout.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/dmax_spots_dialog.xml",
+        "source": "/Users/zhdk/.android/build-cache/ba87923ff38f4627f1038a24ca3fb4b2e24c7c88/output/res/layout/dmax_spots_dialog.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/abc_search_view.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/home_layout.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/home_layout.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/pincode_layout.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/pincode_layout.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/mdtp_date_picker_selected_date_end.xml",
+        "source": "/Users/zhdk/.android/build-cache/91db440c0b10b087a9a831ad57e0b2d43a42b287/output/res/layout/mdtp_date_picker_selected_date_end.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/notification_template_media.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/multiarea_layout.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/multiarea_layout.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/fragment_charge.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/fragment_charge.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/layout_identifying_code.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/layout_identifying_code.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/activity_main.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/footer_layout.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/footer_layout.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/design_navigation_item.xml",
+        "source": "/Users/zhdk/.android/build-cache/d10873ac37e1af568e57391c7bd1de18f5a7d661/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/abc_select_dialog_material.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/select_dialog_item_material.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/cuttingrocord_layout.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/cuttingrocord_layout.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/mdtp_date_picker_view_animator_end.xml",
+        "source": "/Users/zhdk/.android/build-cache/91db440c0b10b087a9a831ad57e0b2d43a42b287/output/res/layout/mdtp_date_picker_view_animator_end.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/pincode_dialog.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/pincode_dialog.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/design_navigation_item_header.xml",
+        "source": "/Users/zhdk/.android/build-cache/d10873ac37e1af568e57391c7bd1de18f5a7d661/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/boundary_layout.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/boundary_layout.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/fragment_start.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/fragment_start.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/design_layout_snackbar.xml",
+        "source": "/Users/zhdk/.android/build-cache/d10873ac37e1af568e57391c7bd1de18f5a7d661/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/toolbar_layout.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/toolbar_layout.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/abc_screen_toolbar.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/abc_action_menu_layout.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/date_layout.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/date_layout.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/chargingrocord_layout.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/chargingrocord_layout.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/na_vi_headerlayout.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/na_vi_headerlayout.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/abc_action_mode_bar.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/setdaypopuwindow.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/setdaypopuwindow.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/fault_item.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/fault_item.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/devicescan_layout.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/devicescan_layout.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/healthrocord_layout.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/healthrocord_layout.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/zhdk/.android/build-cache/d10873ac37e1af568e57391c7bd1de18f5a7d661/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/notification_template_lines_media.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/sb__snack_container.xml",
+        "source": "/Users/zhdk/.android/build-cache/a6c8b1ef3d58f22731e88a30c9cc41238cb3bf6f/output/res/layout/sb__snack_container.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/fragment_lanaguage.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/fragment_lanaguage.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/zhdk/.android/build-cache/d10873ac37e1af568e57391c7bd1de18f5a7d661/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/charge_item.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/charge_item.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/batview_popu.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/batview_popu.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/changepwd_layout.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/changepwd_layout.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/notification_template_media_custom.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/design_layout_tab_text.xml",
+        "source": "/Users/zhdk/.android/build-cache/d10873ac37e1af568e57391c7bd1de18f5a7d661/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/design_navigation_item_separator.xml",
+        "source": "/Users/zhdk/.android/build-cache/d10873ac37e1af568e57391c7bd1de18f5a7d661/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/pull_loadmore_layout.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/pull_loadmore_layout.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/range_time_picker_dialog.xml",
+        "source": "/Users/zhdk/.android/build-cache/91db440c0b10b087a9a831ad57e0b2d43a42b287/output/res/layout/range_time_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/listitem_device.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/listitem_device.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/fragment_set.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/fragment_set.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/sb__snack.xml",
+        "source": "/Users/zhdk/.android/build-cache/a6c8b1ef3d58f22731e88a30c9cc41238cb3bf6f/output/res/layout/sb__snack.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/design_menu_item_action_area.xml",
+        "source": "/Users/zhdk/.android/build-cache/d10873ac37e1af568e57391c7bd1de18f5a7d661/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/abc_dialog_title_material.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/zhdk/.android/build-cache/d10873ac37e1af568e57391c7bd1de18f5a7d661/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/floatingbtn_layout.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/floatingbtn_layout.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/mdtp_date_picker_view_animator.xml",
+        "source": "/Users/zhdk/.android/build-cache/91db440c0b10b087a9a831ad57e0b2d43a42b287/output/res/layout/mdtp_date_picker_view_animator.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/mdtp_time_header_label.xml",
+        "source": "/Users/zhdk/.android/build-cache/91db440c0b10b087a9a831ad57e0b2d43a42b287/output/res/layout/mdtp_time_header_label.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/gatt_services_characteristics.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/gatt_services_characteristics.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/fragment_install.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/fragment_install.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/operating_layout.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/operating_layout.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/mdtp_year_label_text_view.xml",
+        "source": "/Users/zhdk/.android/build-cache/91db440c0b10b087a9a831ad57e0b2d43a42b287/output/res/layout/mdtp_year_label_text_view.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/notification_media_cancel_action.xml",
+        "source": "/Users/zhdk/.android/build-cache/1393be953ddb9bd4683880ce9e8717f9252483b5/output/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/run_popu.xml",
+        "source": "/Users/zhdk/Desktop/Bluetooth4_3/app/src/main/res/layout/run_popu.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/mdtp_done_button.xml",
+        "source": "/Users/zhdk/.android/build-cache/91db440c0b10b087a9a831ad57e0b2d43a42b287/output/res/layout/mdtp_done_button.xml"
+    },
+    {
+        "merged": "/Users/zhdk/Desktop/Bluetooth4_3/app/build/intermediates/res/merged/release/layout/mdtp_date_picker_selected_date.xml",
+        "source": "/Users/zhdk/.android/build-cache/91db440c0b10b087a9a831ad57e0b2d43a42b287/output/res/layout/mdtp_date_picker_selected_date.xml"
+    }
+]

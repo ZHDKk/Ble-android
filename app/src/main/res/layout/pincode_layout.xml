@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    xmlns:ver="http://schemas.android.com/apk/res-auto">
+
+    <include layout="@layout/toolbar_layout"/>
+    <android.support.v7.widget.CardView
+        android:id="@+id/language_cardview"
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        android:foreground="?android:attr/selectableItemBackground"
+        android:focusable="true"
+        app:cardPreventCornerOverlap="true"
+        app:cardUseCompatPadding="true"
+        >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:gravity="center">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/pincode"
+                    android:textSize="18sp"
+                    android:gravity="center"
+                    android:textColor="@color/green"/>
+                <!--<com.example.bluetooth.le.view.VerificationCodeInput-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_marginTop="20dp"-->
+                    <!--ver:box="4"-->
+                    <!--ver:child_h_padding="5dp"-->
+                    <!--android:layout_centerInParent="true"-->
+                    <!--android:id="@+id/verificationCodeInput"-->
+                    <!--android:layout_marginBottom="16dp"-->
+                    <!--ver:inputType="password"-->
+                    <!--/>-->
+                <com.example.bluetooth.le.view.InputCodeView
+                    android:id="@+id/verificationCodeInput"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_centerHorizontal="true"
+                    app:icv_et_bg_focus="@drawable/shape_icv_et_bg_focus"
+                    app:icv_et_bg_normal="@drawable/shape_icv_et_bg_normal"
+                    app:icv_et_divider_drawable="@drawable/shape_divider_identifying"
+                    app:icv_et_number="4"
+                    app:icv_et_text_color="#000000"
+                    app:icv_et_width="50dp"
+                    />
+
+                <TextView
+                    android:id="@+id/tv_error"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/pin_Wrong"
+                    android:visibility="gone"
+                    android:layout_gravity="end"
+                    android:layout_marginEnd="5dp"
+                    android:drawableLeft="@drawable/caveat"
+                    android:textSize="14sp"
+                    android:gravity="end"/>
+            </LinearLayout>
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+
+</LinearLayout>

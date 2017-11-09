@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RobotDemo</string>
+    <string name="ble_not_supported">The device does not support Bluetooth</string>
+    <string name="label_data">数据:</string>
+    <string name="label_device_address">设备地址:</string>
+    <string name="label_state">状态:</string>
+    <string name="no_data">No data</string>
+    <string name="connected">Connected</string>
+    <string name="connectedFail">Connection failed</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="title_devices">Scan the device</string>
+    <string name="error_bluetooth_not_supported">Does not support Bluetooth</string>
+
+    <string name="unknown_device">Unknown device</string>
+    <string name="unknown_characteristic">Unknown characteristic</string>
+    <string name="unknown_service">Unknown service</string>
+
+    <!-- Menu items -->
+    <string name="menu_connect">connection</string>
+    <string name="menu_disconnect">disconnect</string>
+    <string name="menu_scan">scan</string>
+    <string name="menu_stop">stop</string>
+
+    <string name="sure">确定</string>
+    <string name="pinCode_null">密码不能为空</string>
+    <string name="pinCode_error">密码不正确</string>
+    <string name="pinCode_length">密码长度不能小于4位</string>
+    <string name="rssi">信号强度:</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+    <string name="load_more_text">loading...</string>
+    <string name="pincode">Enter PIN Code</string>
+    <string name="enterDistance">Enter Distance:(m,max length:3)</string>
+    <string name="enterArea">Enter Area:(%,max length:2)</string>
+    <string name="prompt">Prompt:</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="setSuccess">Setting Success</string>
+    <string name="setFail">Please connect devices</string>
+    <string name="pin_Wrong">PIN is wrong</string>
+    <string name="exit">Press again to exit</string>
+    <string name="rainSetting">Rain settings</string>
+    <string name="review">Set Device Name</string>
+    <string name="allSettingReset">All Settings reset</string>
+    <string name="setting">Setting</string>
+    <string name="trimming">Boundary Trimming</string>
+    <string name="success">Success</string>
+    <string name="signal">Signal Setting</string>
+    <string name="fail">Fail，Make sure you enter the correct information</string>
+    <string name="changePin">Change PIN</string>
+    <string name="multiArea">Multi-Area</string>
+    <string name="oldPwd">enter old PIN code</string>
+    <string name="newPwd">enter new PIN code</string>
+    <string name="re_newPwd">Re-enter new PIN code</string>
+    <string name="enterPwd">Confirm Change Password</string>
+    <string name="start">Control</string>
+    <string name="signalStrength">Signal:</string>
+    <string name="notFindDevice">Can not find Bluetooth Device</string>
+    <string name="timer">Timer</string>
+    <string name="history">History</string>
+    <string name="language">Language</string>
+    <string name="connectDevice">Please connect devices</string>
+    <string name="timeAndDate">Time and Date</string>
+    <string name="tvStart">start</string>
+    <string name="tvStop">stop</string>
+    <string name="tvSensor">sensor</string>
+    <string name="tvCharge">charge</string>
+    <string name="tvInstall">install</string>
+    <string name="percentage">percentage %</string>
+    <string name="setCutDays">Set Cut Days</string>
+    <string name="power">power</string>
+    <string name="setCutTime">Set Cut Time</string>
+    <string name="fault">Fault</string>
+    <string name="cutting">Cutting</string>
+    <string name="charge">Charge</string>
+    <string name="health">Health</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+
+    <string name="boundary">Boundary</string>
+    <string name="pin">PIN</string>
+    <string name="rain">Rain</string>
+    <string name="allReset">All Reset</string>
+
+    <string name="trim">Trimming</string>
+    <string name="width">Width</string>
+    <string name="signals">Signal</string>
+    <string name="cuttingrecord">Cutting Record</string>
+    <string name="healthRecord">Health Record</string>
+    <string name="pin_code">PIN Code</string>
+
+    <string name="language1">English</string>
+    <string name="language2">Swedish</string>
+    <string name="language3">German</string>
+    <string name="language4">Danish</string>
+    <string name="language5">Spanish</string>
+    <string name="language6">Finnish</string>
+    <string name="language7">French</string>
+    <string name="language8">Ltalian</string>
+    <string name="language9">Dutch</string>
+    <string name="language10">Norwegian</string>
+
+    <string name="currentLanguage">Current language : </string>
+    <string name="switch_language">Confirm to switch?</string>
+    <string name="check_device">please check that your device is already connected</string>
+    <string name="no_status">No data returned</string>
+    <string name="clear_data">Clear Data</string>
+    <string name="clear_ok">Do you want to erase all data?</string>
+    <string name="range">Range</string>
+
+    <string name="forward">FORWARD</string>
+    <string name="backward">BACKWARD</string>
+    <string name="left">LEFT</string>
+    <string name="right">RIGHT</string>
+    <string name="running">Running</string>
+
+    <string name="version">version 1.0</string>
+    <string name="website">www.gforce-tools.com</string>
+
+    <string name="about">about</string>
+    <string name="About">About</string>
+    <string name="offical_website">Offical website</string>
+    <string name="softWare">Software Version</string>
+    <string name="sn">SN</string>
+    <string name="charge_record">Charging Record</string>
+    <string name="fault_record">Fault Record</string>
+    <string name="dataError">Get data error!</string>
+    <string name="totalWorking">Total Working</string>
+    <string name="totalCharging">Total Charging</string>
+
+    <string name="closeCover">Please Close Cover</string>
+    <string name="outside">OutSide</string>
+    <string name="home">Home</string>
+    <string name="stop">Stop</string>
+    <string name="noSignal">No Signal</string>
+    <string name="lift">Lift</string>
+    <string name="tilt">Tilt</string>
+    <string name="pit">Pit</string>
+    <string name="lowVoltage">Low Voltage</string>
+    <string name="waiting">Waiting</string>
+    <string name="spareTime">Spare Time</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+    <string name="installok">Install success</string>
+    <string name="nostatus">No Status</string>
+    <string name="chargeNow">Charging Now</string>
+    <string name="stand">Stand By</string>
+    <string name="disconnectMsg">Are you sure you want to disconnect?</string>
+    <string name="originalPwdFail">Original password is incorrect</string>
+    <string name="pwdNotSame">Entered passwords differ from the another</string>
+    <string name="pwdNotEmpty">Password cannot be empty</string>
+    <string name="getStatus">Get Status...</string>
+
+
+    <string name="strNull">NULL</string>
+    <string name="strLowBat">Low Bat</string>
+    <string name="strSlope">Slope</string>
+    <string name="strM1">M1 Brake</string>
+    <string name="strM2">M2 Brake</string>
+    <string name="strTurnOver">Turn Over</string>
+    <string name="error01">ERROR01</string>
+    <string name="error20L">ERROR20L</string>
+    <string name="error21">ERROR021</string>
+    <string name="error22">ERROR22</string>
+    <string name="error23">ERROR23</string>
+    <string name="error24">ERROR24</string>
+    <string name="error3">ERROR3</string>
+    <string name="error4">ERROR4</string>
+    <string name="trapped">Trapped</string>
+    <string name="error20M">ERROR20M</string>
+    <string name="error12c">12C ERROR</string>
+    <string name="error20r">ERROR20R</string>
+
+    <string name="enterDeviceName">Enter New Device Name</string>
+    <string name="changeDeviceName">Confirm Change Device Name</string>
+    <string name="nameNotEmpty">Name cannot be empty</string>
+
+</resources>
+
